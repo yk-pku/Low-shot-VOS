@@ -1,7 +1,7 @@
 # Low-shot VOS
 For the first time, we demonstrate the feasibility of low-shot video object segmentation: one or two labeled frames per video are almost sufficient for training a decent VOS model. 
 
-<div align='center'><img src='./data_show/teaser.png' alt="teaser" height="400px" width='700px'></div>
+<div align='center'><img src='./data_show/teaser-1.png' alt="teaser" height="400px" width='700px'></div>
 
 <div align='center'><img src='./data_show/teaser-2.png' alt="teaser" height="400px" width='700px'></div>
 
